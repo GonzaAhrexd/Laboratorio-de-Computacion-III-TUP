@@ -1,0 +1,14 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\bin\Debug\net8.0\StringUtilidades.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\bin\Debug\net8.0\StringUtilidades.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\bin\Debug\net8.0\StringUtilidades.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\bin\Debug\net8.0\StringUtilidades.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\bin\Debug\net8.0\StringUtilidades.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\obj\Debug\net8.0\StringUtilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\obj\Debug\net8.0\StringUtilidades.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\obj\Debug\net8.0\StringUtilidades.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\obj\Debug\net8.0\StringUtilidades.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\obj\Debug\net8.0\StringUtilidades.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\obj\Debug\net8.0\refint\StringUtilidades.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\obj\Debug\net8.0\StringUtilidades.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\obj\Debug\net8.0\StringUtilidades.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\StringUtilidades\obj\Debug\net8.0\ref\StringUtilidades.dll

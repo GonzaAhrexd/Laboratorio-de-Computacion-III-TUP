@@ -1,0 +1,14 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\bin\Debug\net8.0\PracticaFactorial.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\bin\Debug\net8.0\PracticaFactorial.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\bin\Debug\net8.0\PracticaFactorial.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\bin\Debug\net8.0\PracticaFactorial.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\bin\Debug\net8.0\PracticaFactorial.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\obj\Debug\net8.0\PracticaFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\obj\Debug\net8.0\PracticaFactorial.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\obj\Debug\net8.0\PracticaFactorial.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\obj\Debug\net8.0\PracticaFactorial.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\obj\Debug\net8.0\PracticaFactorial.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\obj\Debug\net8.0\refint\PracticaFactorial.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\obj\Debug\net8.0\PracticaFactorial.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\obj\Debug\net8.0\PracticaFactorial.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Clase26_03\HelloWorld\ConsoleApp2\obj\Debug\net8.0\ref\PracticaFactorial.dll
