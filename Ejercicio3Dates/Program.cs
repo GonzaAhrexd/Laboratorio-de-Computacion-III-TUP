@@ -49,10 +49,10 @@ String calcularDia(int day, String diaFecha, String[] DiasSemana)
         }
         dayRunning++;
         if(dayRunning == day)
-        { break;
+        {
+            break;
         
         }
-        Console.WriteLine(dayIterator + "-" + dayRunning);
 
     }
 

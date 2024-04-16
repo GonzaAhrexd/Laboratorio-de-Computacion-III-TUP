@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ryrco\\.nuget\\packages\\": {}
+    "C:\\Users\\gonza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Clase26_03\\HelloWorld\\ConsoleApp2\\PracticaFactorial.csproj",
+      "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\ConsoleApp2\\PracticaFactorial.csproj",
       "projectName": "PracticaFactorial",
-      "projectPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Clase26_03\\HelloWorld\\ConsoleApp2\\PracticaFactorial.csproj",
-      "packagesPath": "C:\\Users\\ryrco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Clase26_03\\HelloWorld\\ConsoleApp2\\obj\\",
+      "projectPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\ConsoleApp2\\PracticaFactorial.csproj",
+      "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ryrco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
