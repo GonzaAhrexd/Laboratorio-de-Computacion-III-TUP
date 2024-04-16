@@ -1,0 +1,15 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\bin\Debug\net8.0\2- Cajero Automático.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\bin\Debug\net8.0\2- Cajero Automático.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\bin\Debug\net8.0\2- Cajero Automático.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\bin\Debug\net8.0\2- Cajero Automático.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\bin\Debug\net8.0\2- Cajero Automático.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\2- Cajero Automático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\2- Cajero Automático.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\2- Cajero Automático.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\2- Cajero Automático.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\2- Cajero Automático.sourcelink.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\2- Cajero Automático.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\refint\2- Cajero Automático.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\2- Cajero Automático.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\2- Cajero Automático.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\4- Programación Orientada a Objetos\2- Cajero Automático\obj\Debug\net8.0\ref\2- Cajero Automático.dll

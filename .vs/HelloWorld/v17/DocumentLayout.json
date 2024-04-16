@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{49E6492D-0219-4B87-B30F-8D9B11B76948}|EjercicioCajeroAutomatico\\EjercicioCajeroAutomatico.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\ejerciciocajeroautomatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49E6492D-0219-4B87-B30F-8D9B11B76948}|EjercicioCajeroAutomatico\\EjercicioCajeroAutomatico.csproj|solutionrelative:ejerciciocajeroautomatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93382FA-C40F-494F-AD32-FF4FE7BBC22E}|StringUtilidades\\StringUtilidades.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\stringutilidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93382FA-C40F-494F-AD32-FF4FE7BBC22E}|StringUtilidades\\StringUtilidades.csproj|solutionrelative:stringutilidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\StringUtilidades\\Program.cs",
+              "RelativeDocumentMoniker": "StringUtilidades\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\StringUtilidades\\Program.cs",
+              "RelativeToolTip": "StringUtilidades\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:45:21.8Z"
             },
             {
               "$type": "Document",
@@ -28,7 +44,7 @@
               "RelativeDocumentMoniker": "EjercicioCajeroAutomatico\\Program.cs",
               "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\EjercicioCajeroAutomatico\\Program.cs",
               "RelativeToolTip": "EjercicioCajeroAutomatico\\Program.cs",
-              "ViewState": "AQIAAJoBAAAAAAAAAAAiwKMBAABIAAAA",
+              "ViewState": "AQIAAMEAAAAAAAAAAADwv9AAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T18:49:02.679Z",
               "EditorCaption": ""

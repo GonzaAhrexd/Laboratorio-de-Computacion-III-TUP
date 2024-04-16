@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\1- ConceptosB\u00E1sicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{555265CE-1BFC-4918-B13D-4FAA9BDAC024}|ObtenerFactorial\\ObtenerFactorial.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\1- conceptosb\u00E1sicos\\obtenerfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555265CE-1BFC-4918-B13D-4FAA9BDAC024}|ObtenerFactorial\\ObtenerFactorial.csproj|solutionrelative:obtenerfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2EFB48-B06A-4C5C-A58D-6314111858CC}|EstructurasDeControl\\EstructurasDeControl.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\1- conceptosb\u00E1sicos\\estructurasdecontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2EFB48-B06A-4C5C-A58D-6314111858CC}|EstructurasDeControl\\EstructurasDeControl.csproj|solutionrelative:estructurasdecontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF84F97B-766F-4CF9-8505-ACFEE30CB3C2}|Clases\\Clases.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\1- conceptosb\u00E1sicos\\clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF84F97B-766F-4CF9-8505-ACFEE30CB3C2}|Clases\\Clases.csproj|solutionrelative:clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\1- ConceptosB\u00E1sicos\\ObtenerFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "ObtenerFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\1- ConceptosB\u00E1sicos\\ObtenerFactorial\\Program.cs",
+              "RelativeToolTip": "ObtenerFactorial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:11:14.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\1- ConceptosB\u00E1sicos\\EstructurasDeControl\\Program.cs",
+              "RelativeDocumentMoniker": "EstructurasDeControl\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\1- ConceptosB\u00E1sicos\\EstructurasDeControl\\Program.cs",
+              "RelativeToolTip": "EstructurasDeControl\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:10:38.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\1- ConceptosB\u00E1sicos\\Clases\\Program.cs",
+              "RelativeDocumentMoniker": "Clases\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\1- ConceptosB\u00E1sicos\\Clases\\Program.cs",
+              "RelativeToolTip": "Clases\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:10:00.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
