@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\Ej2- Cajero Automático.csproj": {}
+    "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\Ej2- Cajero Automático.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\Ej2- Cajero Automático.csproj": {
+    "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\Ej2- Cajero Automático.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\Ej2- Cajero Automático.csproj",
+        "projectUniqueName": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\Ej2- Cajero Automático.csproj",
         "projectName": "Ej2- Cajero Automático",
-        "projectPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\Ej2- Cajero Automático.csproj",
-        "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\obj\\",
+        "projectPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\Ej2- Cajero Automático.csproj",
+        "packagesPath": "C:\\Users\\ryrco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\2- Cajero Automático\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ryrco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

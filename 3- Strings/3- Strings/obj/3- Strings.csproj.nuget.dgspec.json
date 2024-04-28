@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\3- Strings.csproj": {}
+    "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\3- Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\3- Strings.csproj": {
+    "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\3- Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\3- Strings.csproj",
+        "projectUniqueName": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\3- Strings.csproj",
         "projectName": "3- Strings",
-        "projectPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\3- Strings.csproj",
-        "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\obj\\",
+        "projectPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\3- Strings.csproj",
+        "packagesPath": "C:\\Users\\ryrco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ryrco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

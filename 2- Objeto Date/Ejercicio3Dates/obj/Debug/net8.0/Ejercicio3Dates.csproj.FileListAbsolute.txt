@@ -1,0 +1,15 @@
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\bin\Debug\net8.0\Ejercicio3Dates.exe
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\bin\Debug\net8.0\Ejercicio3Dates.deps.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\bin\Debug\net8.0\Ejercicio3Dates.runtimeconfig.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\bin\Debug\net8.0\Ejercicio3Dates.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\bin\Debug\net8.0\Ejercicio3Dates.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\Ejercicio3Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\Ejercicio3Dates.AssemblyInfoInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\Ejercicio3Dates.AssemblyInfo.cs
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\Ejercicio3Dates.csproj.CoreCompileInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\Ejercicio3Dates.sourcelink.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\Ejercicio3Dates.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\refint\Ejercicio3Dates.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\Ejercicio3Dates.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\Ejercicio3Dates.genruntimeconfig.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\2- Objeto Date\Ejercicio3Dates\obj\Debug\net8.0\ref\Ejercicio3Dates.dll

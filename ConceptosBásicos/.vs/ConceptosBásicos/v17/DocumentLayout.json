@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\ConceptosB\u00E1sicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28F3D924-DFD8-4A91-8245-29B277FD6226}|POO\\POO.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\conceptosb\u00E1sicos\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F3D924-DFD8-4A91-8245-29B277FD6226}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EA875A-CEE6-4867-8A28-BCE73476EE56}|ConceptosB\u00E1sicos\\ConceptosB\u00E1sicos.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\conceptosb\u00E1sicos\\conceptosb\u00E1sicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EA875A-CEE6-4867-8A28-BCE73476EE56}|ConceptosB\u00E1sicos\\ConceptosB\u00E1sicos.csproj|solutionrelative:conceptosb\u00E1sicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\ConceptosB\u00E1sicos\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\ConceptosB\u00E1sicos\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:33:36.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\ConceptosB\u00E1sicos\\ConceptosB\u00E1sicos\\Program.cs",
+              "RelativeDocumentMoniker": "ConceptosB\u00E1sicos\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\ConceptosB\u00E1sicos\\ConceptosB\u00E1sicos\\Program.cs*",
+              "RelativeToolTip": "ConceptosB\u00E1sicos\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:32:52.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

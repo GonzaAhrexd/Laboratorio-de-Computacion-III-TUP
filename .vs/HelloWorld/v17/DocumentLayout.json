@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\",
+  "WorkspaceRootPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49E6492D-0219-4B87-B30F-8D9B11B76948}|EjercicioCajeroAutomatico\\EjercicioCajeroAutomatico.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\ejerciciocajeroautomatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{650D2559-08CF-4009-94C3-FAD1162541F9}|Zoologico\\Zoologico.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\zoologico\\zoologico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{650D2559-08CF-4009-94C3-FAD1162541F9}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\zoologico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E6492D-0219-4B87-B30F-8D9B11B76948}|EjercicioCajeroAutomatico\\EjercicioCajeroAutomatico.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\ejerciciocajeroautomatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49E6492D-0219-4B87-B30F-8D9B11B76948}|EjercicioCajeroAutomatico\\EjercicioCajeroAutomatico.csproj|solutionrelative:ejerciciocajeroautomatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D93382FA-C40F-494F-AD32-FF4FE7BBC22E}|StringUtilidades\\StringUtilidades.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\stringutilidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D93382FA-C40F-494F-AD32-FF4FE7BBC22E}|StringUtilidades\\StringUtilidades.csproj|C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\stringutilidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D93382FA-C40F-494F-AD32-FF4FE7BBC22E}|StringUtilidades\\StringUtilidades.csproj|solutionrelative:stringutilidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,19 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zoologico",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Zoologico\\Zoologico.csproj",
+              "RelativeDocumentMoniker": "Zoologico\\Zoologico.csproj",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Zoologico\\Zoologico.csproj",
+              "RelativeToolTip": "Zoologico\\Zoologico.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T00:08:01.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\StringUtilidades\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\StringUtilidades\\Program.cs",
               "RelativeDocumentMoniker": "StringUtilidades\\Program.cs",
-              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\StringUtilidades\\Program.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\StringUtilidades\\Program.cs",
               "RelativeToolTip": "StringUtilidades\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -38,11 +51,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\EjercicioCajeroAutomatico\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\EjercicioCajeroAutomatico\\Program.cs",
               "RelativeDocumentMoniker": "EjercicioCajeroAutomatico\\Program.cs",
-              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\EjercicioCajeroAutomatico\\Program.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\EjercicioCajeroAutomatico\\Program.cs",
               "RelativeToolTip": "EjercicioCajeroAutomatico\\Program.cs",
               "ViewState": "AQIAAMEAAAAAAAAAAADwv9AAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

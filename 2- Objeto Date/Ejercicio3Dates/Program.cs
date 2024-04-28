@@ -4,15 +4,14 @@
  * Por lo cual el sistema podría preguntar, ingrese una fecha del mes de marzo y le diré que día cae.
  */
 String[] DiasSemana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"];
-
 int convertirMes(String mes)
 {
     //Meses del año en un array
     String[] meses = { "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre" };
 
-    for (int i = 0; i<12; i++)
+    for(int i = 0; i<12; i++)
     {
-        if (mes.ToLower() == meses[i])
+        if(mes.ToLower() == meses[i])
         {
             return i+1;
         }
@@ -26,9 +25,9 @@ String convertirDiaSp(String day, String[] DiasSemana)
     String[] EnglishDays = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
     String[] SpanishDays = DiasSemana;
 
-    for (int i = 0; i<7; i++)
+    for(int i = 0; i<7; i++)
     {
-        if (day.ToLower() == EnglishDays[i])
+        if(day.ToLower() == EnglishDays[i])
         {
             return SpanishDays[i];
         }
@@ -41,18 +40,18 @@ String calcularDia(int day, String diaFecha, String[] DiasSemana)
 {
     int dayIterator = Array.IndexOf(DiasSemana, diaFecha);
     int dayRunning = 1;
-    while (dayIterator < 7 && dayRunning<=day)
+    while(dayIterator < 7 && dayRunning<=day)
     {
 
 
         dayIterator++;
 
-        if (dayIterator == 7)
+        if(dayIterator == 7)
         {
             dayIterator = 0;
         }
         dayRunning++;
-        if (dayRunning == day)
+        if(dayRunning == day)
         {
             break;
 

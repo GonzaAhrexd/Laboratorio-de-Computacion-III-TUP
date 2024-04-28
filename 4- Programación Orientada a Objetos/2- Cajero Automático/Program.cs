@@ -16,11 +16,9 @@ using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 
 
-class Banco
-{
+class Banco{
     public List<Cuenta> cuentas = new List<Cuenta>();
-    public void nuevoMes()
-    {
+    public void nuevoMes(){
         Console.WriteLine("Nuevo mes");
         foreach (Cuenta cuenta in cuentas)
         {
@@ -31,22 +29,18 @@ class Banco
             bool jubilado = cuenta.getDuenioCuenta().getTipoCuenta() == "jubilado";
 
 
-            if (saldo < 20000.00 && cuentaLaboral)
-            {
+            if (saldo < 20000.00 && cuentaLaboral{
                 cuenta.setSaldoAdelanto(20000);
                 cuenta.setMesesAFavor(0);
             }
-            else if (saldo == 20000.00 && cuenta.getMesesAFavor() < 2)
-            {
+            else if (saldo == 20000.00 && cuenta.getMesesAFavor() < 2{
                 cuenta.setMesesAFavor(cuenta.getMesesAFavor() + 1);
             }
-            else if (jubilado)
-            {
+            else if (jubilado){
                 cuenta.setSaldoAdelanto(10000);
 
             }
-            else if (cuenta.getMesesAFavor() >= 2)
-            {
+            else if (cuenta.getMesesAFavor() >= 2){
                 cuenta.setSaldoAdelanto(80000);
                 cuenta.setMesesAFavor(cuenta.getMesesAFavor() + 1);
             }
@@ -472,6 +466,7 @@ class Program
                 case 7:
                     return;
             }
+
 
 
         }

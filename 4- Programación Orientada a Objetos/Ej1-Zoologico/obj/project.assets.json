@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gonza\\.nuget\\packages\\": {}
+    "C:\\Users\\ryrco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj",
+      "projectUniqueName": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj",
       "projectName": "Ej1-Zoologico",
-      "projectPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj",
-      "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\Ej1-Zoologico\\obj\\",
+      "projectPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj",
+      "packagesPath": "C:\\Users\\ryrco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programación Orientada a Objetos\\Ej1-Zoologico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ryrco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
