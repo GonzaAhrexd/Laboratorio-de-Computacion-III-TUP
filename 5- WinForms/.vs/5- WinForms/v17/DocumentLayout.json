@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\5- winforms\\5- winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|solutionrelative:5- winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\5- winforms\\5- winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|solutionrelative:5- winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\5- winforms\\5- winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|solutionrelative:5- winforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\5- winforms\\5- winforms\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|solutionrelative:5- winforms\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\5- winforms\\5- winforms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|solutionrelative:5- winforms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\5- winforms\\5- winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|solutionrelative:5- winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\5- winforms\\5- winforms\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6B28018B-9515-4161-9E28-58D27C4B581D}|5- WinForms\\5- WinForms.csproj|solutionrelative:5- winforms\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form2.cs",
+              "RelativeDocumentMoniker": "5- WinForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form2.cs",
+              "RelativeToolTip": "5- WinForms\\Form2.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:05:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.resx",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form2.resx",
+              "RelativeDocumentMoniker": "5- WinForms\\Form2.resx",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form2.resx",
+              "RelativeToolTip": "5- WinForms\\Form2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-23T23:04:31.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "5- WinForms\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form2.Designer.cs",
+              "RelativeToolTip": "5- WinForms\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:04:29.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form2.cs",
+              "RelativeDocumentMoniker": "5- WinForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "5- WinForms\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:39:16.664Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "5- WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "5- WinForms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:29:57.827Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form1.resx",
+              "RelativeDocumentMoniker": "5- WinForms\\Form1.resx",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form1.resx",
+              "RelativeToolTip": "5- WinForms\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-23T21:56:19.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "5- WinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\5- WinForms\\5- WinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "5- WinForms\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T21:56:13.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

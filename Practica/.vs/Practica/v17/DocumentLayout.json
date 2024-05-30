@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98A218AB-94C1-4733-97BC-A939587572B2}|Parcial\\Parcial.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\practica\\parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A218AB-94C1-4733-97BC-A939587572B2}|Parcial\\Parcial.csproj|solutionrelative:parcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4531438-AA64-4367-82E8-47EFFF2E1D70}|Practica\\Practica.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\practica\\practica\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4531438-AA64-4367-82E8-47EFFF2E1D70}|Practica\\Practica.csproj|solutionrelative:practica\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4531438-AA64-4367-82E8-47EFFF2E1D70}|Practica\\Practica.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\practica\\practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4531438-AA64-4367-82E8-47EFFF2E1D70}|Practica\\Practica.csproj|solutionrelative:practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4531438-AA64-4367-82E8-47EFFF2E1D70}|Practica\\Practica.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\practica\\practica\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4531438-AA64-4367-82E8-47EFFF2E1D70}|Practica\\Practica.csproj|solutionrelative:practica\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4531438-AA64-4367-82E8-47EFFF2E1D70}|Practica\\Practica.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\labcomputacion3\\ejercicios\\lab3\\practica\\practica\\bicicletaelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4531438-AA64-4367-82E8-47EFFF2E1D70}|Practica\\Practica.csproj|solutionrelative:practica\\bicicletaelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Parcial\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Parcial\\Program.cs",
+              "RelativeToolTip": "Parcial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:27:52.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Practica\\Empresa.cs",
+              "RelativeDocumentMoniker": "Practica\\Empresa.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Practica\\Empresa.cs",
+              "RelativeToolTip": "Practica\\Empresa.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAxwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:07:34.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Practica\\Empleados.cs",
+              "RelativeDocumentMoniker": "Practica\\Empleados.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Practica\\Empleados.cs",
+              "RelativeToolTip": "Practica\\Empleados.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:36:56.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BicicletaElectrica.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Practica\\BicicletaElectrica.cs",
+              "RelativeDocumentMoniker": "Practica\\BicicletaElectrica.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Practica\\BicicletaElectrica.cs",
+              "RelativeToolTip": "Practica\\BicicletaElectrica.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:33:39.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Practica\\Program.cs",
+              "RelativeDocumentMoniker": "Practica\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\Practica\\Practica\\Program.cs",
+              "RelativeToolTip": "Practica\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:13:39.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

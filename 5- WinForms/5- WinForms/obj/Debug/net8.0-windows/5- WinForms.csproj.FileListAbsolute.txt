@@ -1,0 +1,18 @@
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\bin\Debug\net8.0-windows\5- WinForms.exe
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\bin\Debug\net8.0-windows\5- WinForms.deps.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\bin\Debug\net8.0-windows\5- WinForms.runtimeconfig.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\bin\Debug\net8.0-windows\5- WinForms.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\bin\Debug\net8.0-windows\5- WinForms.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\_5__WinForms.Form1.resources
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\5- WinForms.csproj.GenerateResource.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\5- WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\5- WinForms.AssemblyInfoInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\5- WinForms.AssemblyInfo.cs
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\5- WinForms.csproj.CoreCompileInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\5- WinForms.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\refint\5- WinForms.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\5- WinForms.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\5- WinForms.genruntimeconfig.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\ref\5- WinForms.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\_5__WinForms.Form2.resources
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\5- WinForms\5- WinForms\obj\Debug\net8.0-windows\_5__WinForms.Properties.Resources.resources

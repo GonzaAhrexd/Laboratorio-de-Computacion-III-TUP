@@ -1,0 +1,15 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\bin\Debug\net8.0\Conexion.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\bin\Debug\net8.0\Conexion.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\bin\Debug\net8.0\Conexion.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\bin\Debug\net8.0\Conexion.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\bin\Debug\net8.0\Conexion.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\Conexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\Conexion.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\Conexion.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\Conexion.sourcelink.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\Conexion.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\refint\Conexion.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\Conexion.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\Conexion.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\7. BaseDeDatos\Conexion\Conexion\obj\Debug\net8.0\ref\Conexion.dll

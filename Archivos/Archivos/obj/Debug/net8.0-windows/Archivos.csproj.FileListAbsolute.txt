@@ -1,0 +1,17 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\bin\Debug\net8.0-windows\Archivos.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\bin\Debug\net8.0-windows\Archivos.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\bin\Debug\net8.0-windows\Archivos.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\bin\Debug\net8.0-windows\Archivos.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\bin\Debug\net8.0-windows\Archivos.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.Form1.resources
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.csproj.GenerateResource.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.sourcelink.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\refint\Archivos.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\Archivos.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Archivos\Archivos\obj\Debug\net8.0-windows\ref\Archivos.dll

@@ -1,0 +1,15 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\bin\Debug\net8.0\Practica.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\bin\Debug\net8.0\Practica.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\bin\Debug\net8.0\Practica.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\bin\Debug\net8.0\Practica.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\bin\Debug\net8.0\Practica.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\Practica.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\Practica.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\Practica.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\Practica.sourcelink.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\Practica.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\refint\Practica.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\Practica.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\Practica.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\LabComputacion3\Ejercicios\Lab3\Practica\Practica\obj\Debug\net8.0\ref\Practica.dll

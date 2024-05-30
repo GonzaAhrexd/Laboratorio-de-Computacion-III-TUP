@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\EjercicioFactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EjercicioFactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Program.cs",
+              "RelativeDocumentMoniker": "4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Program.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Program.cs",
+              "RelativeToolTip": "4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Program.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:38:10.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Ej1-Zoologico.csproj",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj",
+              "RelativeDocumentMoniker": "4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj",
+              "RelativeToolTip": "4- Programaci\u00F3n Orientada a Objetos\\Ej1-Zoologico\\Ej1-Zoologico.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T19:37:45.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\2- Objeto Date\\Ejercicio3Dates\\Program.cs",
               "RelativeDocumentMoniker": "2- Objeto Date\\Ejercicio3Dates\\Program.cs",
@@ -42,12 +76,11 @@
               "RelativeToolTip": "2- Objeto Date\\Ejercicio3Dates\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T00:52:17.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T00:52:17.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Ejercicio3Dates.csproj",
               "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\2- Objeto Date\\Ejercicio3Dates\\Ejercicio3Dates.csproj",
               "RelativeDocumentMoniker": "2- Objeto Date\\Ejercicio3Dates\\Ejercicio3Dates.csproj",
@@ -55,12 +88,11 @@
               "RelativeToolTip": "2- Objeto Date\\Ejercicio3Dates\\Ejercicio3Dates.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-24T00:52:16.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T00:52:16.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\Program.cs",
               "RelativeDocumentMoniker": "3- Strings\\3- Strings\\Program.cs",
@@ -68,12 +100,11 @@
               "RelativeToolTip": "3- Strings\\3- Strings\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T00:47:34.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T00:47:34.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "3- Strings.csproj",
               "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\3- Strings\\3- Strings\\3- Strings.csproj",
               "RelativeDocumentMoniker": "3- Strings\\3- Strings\\3- Strings.csproj",
@@ -81,12 +112,11 @@
               "RelativeToolTip": "3- Strings\\3- Strings\\3- Strings.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-24T00:47:29.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T00:47:29.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EjercicioFactorial.cs",
               "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\LabComputacion3\\Ejercicios\\Lab3\\EjercicioFactorial.cs",
               "RelativeDocumentMoniker": "EjercicioFactorial.cs",
